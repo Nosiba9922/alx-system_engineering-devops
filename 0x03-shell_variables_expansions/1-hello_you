@@ -1,3 +1,2 @@
-1 #!/bin/bash
-2 echo "hello $user"
-
+#!/bin/bash
+ cat hello user
