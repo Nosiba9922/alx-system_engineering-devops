@@ -1,1 +1,1 @@
-Display the Last 1 0 lines of /etc/passwd
+0x02-shell_redirections
